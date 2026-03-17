@@ -212,7 +212,7 @@ export default function Home() {
           textTransform:'uppercase',letterSpacing:'0.1em',marginBottom:'1.75rem'}}>How it works</h2>
         <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fit,minmax(190px,1fr))',gap:'1rem'}}>
           {[
-            ['🎯','Set your goal','Describe exactly what you're committing to and when you'll be done.'],
+            ['🎯','Set your goal','Describe exactly what you\'re committing to and when you\'ll be done.'],
             ['💵','Put money on it','You stake money that gets held in an interest-bearing account while you work.'],
             ['🌍','The world watches','Anyone can bet on whether you succeed or fail. Real money, real stakes.'],
             ['⚖️','Someone judges','You pick a trusted person to verify your evidence and give the final verdict.'],
